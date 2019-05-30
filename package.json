@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true,
+  "name": "rn-sample",
+  "version": "1.0.0",
+  "description": "react native app for self learning",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-vaibhav/rn-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-vaibhav/rn-sample/issues"
+  },
+  "homepage": "https://github.com/da-vaibhav/rn-sample#readme"
+}
